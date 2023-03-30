@@ -7,7 +7,7 @@ Decent at predicting psychometrics from social media activity using a multi-moda
 Also does some network analysis by putting images together from network activity stored in a pcap file 
   Plan was to use images to detect malicious activity but never got around to it
 
-Makes a local postgres server (assuming you are running debian lol..) and some other stuff to store the results
+Makes a local postgres server (assuming you are running debian lol..) and some other stuff to store the results - can encrypt the storage so a local key is used to decrypt results from postgres
 
 works for numerous sites:
   well kinda.. really only reddit, linkedin, and twitter
