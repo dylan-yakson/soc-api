@@ -1,8 +1,17 @@
 # soc-api
 
-Crappy thing I made to predict peoples emotions from social media scraping and run some automated OSINT strategies 
+Crappy & unfinished.
+
+Decent at predicting psychometrics from social media activity using a multi-modal approach though and runs some automated OSINT strategies like unsername enumeration, and facial recognition
 
 Also does some network analysis by putting images together from network activity stored in a pcap file 
   Plan was to use images to detect malicious activity but never got around to it
+
+Makes a local postgres server (assuming you are running debian lol..) and some other stuff to store the results
+
+works for numerous sites:
+  well kinda.. really only reddit, linkedin, and twitter
   
-Decent at predicting psychometrics from social media activity using a multi-modal approach though
+  
+  
+  ...dont judge.
